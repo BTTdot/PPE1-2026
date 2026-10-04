@@ -86,7 +86,7 @@ Pour la création et l'édition du fichier pipelines.txt:
 Pour l'ajout du tag :
 
 Ajout des dernières modifications de mon dossier Exercices :
-- git add Exercices/
+- git add Exercices
 - git commit -m "ajout des dernieres modifs du dossier Exercices"
 - git push
 
