@@ -9,8 +9,8 @@
 Pour ajouter mes modifications à mon dépôt en ligne :  
 -git add journal.md  
 -git commit -m "ajout de la sous-section sur le travail sur git"  
--git push
-
+-git push  
+<br>
 Pour créer un tag du dernier commit:  
--git tag -a -m "version finie intro git" gitintro
+-git tag -a -m "version finie intro git" gitintro  
 -git push origin gitintro
